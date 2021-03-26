@@ -1,3 +1,4 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 Web-Terminal
 ============
 Web-Terminal is a very lightweight terminal server that provides remote CLI via standard web browser and HTTP protocol.
